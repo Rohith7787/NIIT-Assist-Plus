@@ -1,0 +1,19 @@
+.about-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-image: url(https://dbs-lifemark.com/wp-content/uploads/AdobeStock_225726446-1024x576-1024x585.jpeg);
+  }
+  
+  .about-container h1 {
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .about-container p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+  }
+  
